@@ -8,9 +8,9 @@ Componentes:
  25291090-2 - João Lucas Veiga de Carvalho
  25164719-2 - Rafael maia
  25033056-2 - Gabriel Michels Cubas
- [RA DO JOÃO PAULO] - João Paulo Mayer
+ 25246927-2 - João Paulo Mayer Bera
  25001118-2 - Emanuel Gomes de Almeida
- 25361613-2  - Arthur Marinho Figueira
+ 25361613-2 - Arthur Marinho Figueira
 Data: 16/09/2025
 Descritivo: Exercício 48: Usa um ternário aninhado para classificar a temperatura em Frio, Agradável ou Quente.
 *******************************************************************************/
@@ -19,4 +19,5 @@ $temperatura = 48; // Temperatura em graus Celsius
 $classificacao = ($temperatura < 20) ? "Frio" : (($temperatura <= 25) ? "Agradável" : "Quente");
 echo "Temperatura: $temperatura °C. Classificação: $classificacao";
 ?>
+
 
