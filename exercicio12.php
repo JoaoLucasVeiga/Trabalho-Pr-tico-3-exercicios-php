@@ -11,11 +11,12 @@ Componentes:
             RA: 25361613-2 - Arthur Marinho Figueira
             RA: 25164719-2 - Rafael Maia
             RA: 25001118-2 - Emanuel Gomes de Almeida           
-            /*RA: 25191112-2 - João Paulo Mayer
+            RA: 25246927-2 - João Paulo Mayer
 Data: 16 de Setembro de 2025
 Descritivo: Usa += para adicionar 10 a uma variável
 
 *******************************************************************************/
 $valor = 20;
 $valor += 10; // adiciona 10
+
 echo "Valor após + = 10: " . $valor . PHP_EOL;
