@@ -8,7 +8,7 @@ Componentes:
  25291090-2 - João Lucas Veiga de Carvalho
  25164719-2 - Rafael maia
  25033056-2 - Gabriel Michels Cubas
- 25246927-2 João Paulo Mayer
+ 25246927-2 João Paulo Mayer Bera
  25001118-2 - Emanuel Gomes de Almeida
  25361613-2  - Arthur Marinho Figueira
 Data: 16/09/2025
@@ -28,5 +28,6 @@ echo "Exercício 3: O resultado da operação ($numero1 * $numero2) / $divisor �
 
 
 ?>
+
 
 
