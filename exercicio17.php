@@ -10,7 +10,7 @@ Componentes:
             RA: 25361613-2 - Arthur Marinho Figueira
             RA: 25164719-2 - Rafael Maia
             RA: 25001118-2 - Emanuel Gomes de Almeida           
-            /*RA: 25191112-2 - João Paulo Mayer
+            RA: 25246927-2 - João Paulo Mayer
 Data: 16 de Setembro de 2025
 Descritivo: Compara se duas variáveis são iguais em valor (==)
 
@@ -22,4 +22,5 @@ if ($a == $b) {
     echo "\"{$a}\" e {$b} são iguais em valor." . PHP_EOL;
 } else {
     echo "\"{$a}\" e {$b} NÃO são iguais em valor." . PHP_EOL;
+
 }
