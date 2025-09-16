@@ -5,11 +5,12 @@ Disciplina: Linguagem e Técnicas de Programacão
 Professor: José Carlos Domingues Flores
 Turma: ESOFT-2B
 Componentes:
- [RA DO JOÃO LUCAS] - João Lucas Veiga de Carvalho
- [RA DO RAFAEL] - Rafael maia
- [RA DO GABRIEL] - Gabriel Michels Cubas
+ 25291090-2 - João Lucas Veiga de Carvalho
+ 25164719-2 - Rafael maia
+ 25033056-2 - Gabriel Michels Cubas
  [RA DO JOÃO PAULO] - João Paulo Mayer
- [RA DO EMANUEL] - Emanuel Gomes de Almeida
+ 25001118-2 - Emanuel Gomes de Almeida
+ 25361613-2  - Arthur Marinho Figueira
 Data: 16/09/2025
 Descritivo: Exercício 8: Programa que calcula a área de um círculo (πr²).
 *******************************************************************************/
@@ -29,4 +30,5 @@ echo "<br><br>"; // Pula duas linhas para organizar
 echo "O raio informado é: " . $raio;
 echo "<br>";
 echo "A área do círculo é: " . number_format($area, 2, ',', '.');
+
 ?>
