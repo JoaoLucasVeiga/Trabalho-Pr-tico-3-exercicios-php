@@ -11,7 +11,7 @@ Componentes:
             RA: 25361613-2 - Arthur Marinho Figueira
             RA: 25164719-2 - Rafael Maia
             RA: 25001118-2 - Emanuel Gomes de Almeida           
-            /*RA: 25191112-2 - João Paulo Mayer
+            RA: 25246927-2 - João Paulo Mayer
 Data: 16 de Setembro de 2025
 Descritivo: Classifica notas (A, B, C, D, F)
 
@@ -29,5 +29,6 @@ if ($nota >= 90) {
 } else {
     $conceito = "F";
 }
+
 
 echo "Nota: {$nota} -> Classificada como: {$conceito}" . PHP_EOL;
