@@ -11,7 +11,7 @@ Componentes:
             RA: 25361613-2 - Arthur Marinho Figueira
             RA: 25164719-2 - Rafael Maia
             RA: 25001118-2 - Emanuel Gomes de Almeida           
-            /*RA: 25191112-2 - João Paulo Mayer
+            RA: 25246927-2 - João Paulo Mayer
 Data: 16 de Setembro de 2025
 Descritivo: Testa se uma variável é maior que 100 OU menor que 50 (operador OR)
 
@@ -22,4 +22,5 @@ if ($valor > 100) {
     echo "Condição verdadeira: {$valor} é >100" . PHP_EOL;
 } elseif ($valor <50) {
     echo "Condição verdadeira: {$valor} é <50." . PHP_EOL;
+
 }
