@@ -11,7 +11,7 @@ Componentes:
             RA: 25361613-2 - Arthur Marinho Figueira
             RA: 25164719-2 - Rafael Maia
             RA: 25001118-2 - Emanuel Gomes de Almeida           
-            /*RA: 25191112-2 - João Paulo Mayer
+            RA: 25246927-2 - João Paulo Mayer
 Data: 16 de Setembro de 2025
 Descritivo: Compara se null é igual a false
 
@@ -23,4 +23,5 @@ if ($x == $y) {
     echo "null == false  --> Verdadeiro (igualdade frouxa)." . PHP_EOL;
 } else {
     echo "null == false  --> Falso." . PHP_EOL;
+
 }
